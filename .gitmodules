@@ -1,0 +1,3 @@
+[submodule "Device"]
+	path = Device
+	url = ssh://git@github.com/rrah/Devices.git
